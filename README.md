@@ -1,2 +1,2 @@
-# docs
+# Docs
 Repository for project documentation
